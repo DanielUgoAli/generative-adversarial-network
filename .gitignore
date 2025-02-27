@@ -169,3 +169,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore ONNX models
+Models/*.onnx
+
+# Ignore generated images
+generated.png
+
+# Ignore notes files
+*.notes
