@@ -177,4 +177,4 @@ Models/*.onnx
 generated.png
 
 # Ignore notes files
-*.notes
+notes
